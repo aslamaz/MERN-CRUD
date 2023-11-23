@@ -1,0 +1,28 @@
+.mainDiv1{
+    display: flex;
+    justify-content: center;
+    margin-top:60px;
+   padding-left: 50px   ;
+}
+.container1{
+    padding: 10px;
+    width: 50%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+   margin-top: 50px;
+    
+}
+h1{
+    color: blue;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    width: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    padding: 10px;
+}
